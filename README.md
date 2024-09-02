@@ -66,5 +66,5 @@ For a detailed walkthrough, watch the video on our channel.
 
 ## Channel
 
-Check out more of our projects and tutorials on our YouTube channel: [Yarana IoT Guru](https://www.youtube.com/channel/UCkQdMBElOY6MvhVzzK-DxJQ).
+Check out more of our projects and tutorials on our YouTube channel: [Yarana IoT Guru](https://www.youtube.com/@YaranaIotGuru).
 
